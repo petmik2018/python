@@ -1,1 +1,3 @@
-print("Hello, world!")
+п»ї# coding: utf-8
+
+print("Привет, мир")
